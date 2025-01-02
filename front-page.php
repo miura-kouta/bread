@@ -129,7 +129,7 @@
     </ul>
     <button
       class="best__button--more common__button--style common__button--style-hover "
-      onclick="location.href='#'"
+      onclick="location.href='http://bread.local/goods/'"
       type="button"
       name="more"
       value="more">
